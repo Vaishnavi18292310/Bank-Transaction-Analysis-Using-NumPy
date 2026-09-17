@@ -16,6 +16,7 @@ The project was designed as a hands-on NumPy data analysis project with a focus 
 * Jupyter Notebook
 
 ## 📊 Dataset
+Dataset Link - https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
 
 The dataset contains **50,000 bank transaction records** with 15 attributes, including:
 
